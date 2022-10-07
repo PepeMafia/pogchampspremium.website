@@ -1,0 +1,131 @@
+body {
+    background-color: #545658;
+}
+
+.logo {
+    margin: 0 0 0 0;
+    padding: 0 0 0 0;
+    width: 45px;
+    height: 45px;
+    float: left;
+}
+
+.websitename {
+    margin-top: 8px;
+    margin-bottom: 8px;
+    padding: 5px 5px 5px 5px;
+    font-size: medium;
+    vertical-align: middle;
+    display: inline-block;
+}
+
+.container1 {
+    border: solid 0px red;
+    padding: 5px 5px 5px 5px;
+    width: 100%;
+    vertical-align: middle;
+}
+
+.navbar {
+    padding: 5px 5px 5px 5px;
+    width: 100%;
+    background-color: #5e6aab;
+    border-radius: 10px;
+}
+
+.logo-name {
+    display: inline-block;
+    padding: 5px 5px 5px 5px;
+}
+
+.navbarcontainer {
+    display: inline-block;
+    position: absolute;
+    right: 15px;
+}
+
+.navbar-items {
+    vertical-align: middle;
+    display: inline-flex;
+    padding-left: 0;
+    list-style: none;
+    font-size: 16px;
+}
+
+.nav-item-1,
+.nav-item-2,
+.nav-item-3 {
+    font-size: larger;
+}
+
+.nav-item-1 {
+    padding: 0 8px 0 8px;
+}
+
+.nav-item-2 {
+    padding: 0 8px 0 8px;
+}
+
+.nav-item-3 {
+    padding: 0 8px 0 8px;
+}
+
+.container2 {
+    border: solid 0px orange;
+}
+
+.container2a {
+    border: solid 0px red;
+    margin: 10px 8% 10px 8%;
+    padding: 2px 15px 2px 15px;
+}
+
+.container2a1 {
+    border: solid 0px white;
+    padding: 10px 10px 10px 10px;
+    display: inline-flex;
+}
+
+.container2a1a {
+    padding: 15% 10px 15% 10px;
+    border: solid 0px lightblue;
+    width: 50%;
+}
+
+.heading {
+    border: solid 0px greenyellow;
+    margin-bottom: 10px;
+}
+
+.headtext {
+    margin: 5px 5px 5px 5px;
+    padding-left: 20px;
+}
+
+.paragraph {
+    border: solid 0px lime;
+    display: block;
+    padding: 2px 2px 2px 2px;
+}
+
+.dummytext {
+    color: white;
+    margin: 0 0 0 0;
+}
+
+.container2a1b {
+    border: solid 0px skyblue;
+    width: 50%;
+    padding: 10px 10px 10px 10px;
+}
+
+.container2a1b1 {
+    border: solid 0px pink;
+}
+
+.imagepreview {
+    width: 100%;
+    border-radius: 15px;
+    filter: blur(10%);
+    -webkit-filter: blur(2px);
+}
